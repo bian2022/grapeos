@@ -1,3 +1,4 @@
+## 本项目出处:https://gitee.com/jackchengyujia/grapeos  （本人不喜欢gitee，所有就在github上克隆了个）
 # GrapeOS操作系统
 ## 简介
 学习操作系统原理最好的方法是自己写一个简单的操作系统。  
